@@ -1,2 +1,3 @@
 # Introduction-to-Artificial-Intelligence-Project
 3 Player Tic-Tac-Toe
+mplemented the Tic-Tac-Toe game with dynamic board size and dynamic winning combination input from the user with different layers of neural networks to improve the performance of AI(Artificial intelligence) for 3 player input. We have run our AI system on different combinations of training data to learn the system. Also, we have compared the win rate and performance with and without the machine learning component. We have used the Min-Max tree search as a Tree search algorithm. Also, we have used reinforcement learning machine learning algorithm. We are including NumPy, PyTorch and TensorFlow python libraries.
